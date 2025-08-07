@@ -1,2 +1,3 @@
 - workflow test01
 - 자동 CI/CD
+- 수정
